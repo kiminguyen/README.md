@@ -7,7 +7,7 @@
 ## About
 👋 Hey there! I’m Kimi Nguyen, a student developer who enjoys building projects, learning new technologies, and bringing ideas to life through code. I’m especially interested in creating meaningful digital experiences and solving real problems with thoughtful design and clean implementation.
 
-- 📍 Location: Open to learning and building from anywhere
+- 📍 Location: Toronto, ON
 - 🎓 Education: Student
 - 📅 Hacking Since: I started exploring coding and building through personal projects and hackathons
 
@@ -18,7 +18,7 @@
 ## Tech & Interests
 - 🧰 Languages: Python, HTML/CSS
 - 🔭 Focus: Web development, problem-solving, and building practical tools
-- ❤️ Interests: Hackathons, technology, collaboration, creativity, and business
+- ❤️ Interests: Hackathons, technology, marketing, creativity, and business
 
 ## Connect
 - LinkedIn: [kiminguyen](https://www.linkedin.com/in/kiminguyen/)
